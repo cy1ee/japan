@@ -134,6 +134,7 @@
 https://www.google.com.tw/maps/@26.2917049,127.4187327,10z/data=!4m2!6m1!1s1k1aVu6R81fTGIgW7hs5-tE7YIYQ
 
 沖繩本島南部
+
 |名稱|map code|備註|介紹|
 |---|---|---|---|
 |玉泉洞|232 495 333\*58||[遊記1](http://wkitty.pixnet.net/blog/post/33748583)、[遊記2](http://sputravel.pixnet.net/blog/post/231312550-%5B%E6%B2%96%E7%B9%A9%5D-spu%40-%E9%AC%BC%E6%96%A7%E7%A5%9E%E5%B7%A5%E7%9A%84%E5%9C%B0%E5%BA%95%E4%B8%96%E7%95%8C%E2%94%80%E7%8E%89%E6%B3%89%E6%B4%9E..%2B%E7%8E%8B)、[遊記3](http://ch3126.pixnet.net/blog/post/104989583-%5B%E6%97%A5%E6%9C%AC%E6%B2%96%E7%B9%A9%E8%87%AA%E7%94%B1%E8%A1%8C%5D%E7%90%89%E7%90%83%E6%96%87%E5%8C%96%E6%9D%91%E5%8F%8A%E7%8E%89%E6%B3%89%E6%B4%9E%E4%B9%8B%E8%A1%8C)|
@@ -145,6 +146,7 @@ https://www.google.com.tw/maps/@26.2917049,127.4187327,10z/data=!4m2!6m1!1s1k1aV
 |齋場禦嶽|33 024 282\*64|好像是個神聖的地方(應該要去一下)|[遊記1](http://irene521.pixnet.net/blog/post/338946932-%E3%80%90%E6%97%A5%E6%9C%AC%E6%B2%96%E7%B9%A9%E3%80%91%E7%90%89%E7%90%83%E7%8E%8B%E5%9C%8B%E6%9C%80%E9%87%8D%E8%A6%96%E7%9A%84%E7%A5%9E%E9%9D%88%E4%B9%8B%E5%9C%B0%EF%BC%8E%E9%BD%8B)、[遊記2](http://vincepan.pixnet.net/blog/post/104993948-%E6%B2%96%E7%B9%A9--%E7%9F%A5%E5%BF%B5%E5%B2%AC%E3%80%81%E9%BD%8B%E5%A0%B4%E5%BE%A1%E5%B6%BD)|
 
 沖繩本島北部
+
 |名稱|map code|備註|介紹|
 |---|---|---|---|
 |沖繩美麗海水族館|553 075 737\*32|沖繩必去|[官網](https://churaumi.okinawa/tc/haisai/)|
@@ -159,6 +161,7 @@ https://www.google.com.tw/maps/@26.2917049,127.4187327,10z/data=!4m2!6m1!1s1k1aV
 
 
 沖繩本島中部
+
 |名稱|map code|備註|介紹|
 |---|---|---|---|
 |美國村|33 525 449\*16|離飯店很近，大約20分鐘車程|[遊記1](http://agathachiu66.pixnet.net/blog/post/355013956-%3C%E6%97%A5%E6%9C%AC%E6%B2%96%E7%B9%A9%E7%BE%8E%E5%9C%8B%E6%9D%91%E6%87%B6%E4%BA%BA%E5%8C%85%3E%E7%BE%8E%E5%9C%8B%E6%9D%91%E9%80%9B%E8%A1%97%E5%AE%8C%E6%95%B4%E6%94%BB%E7%95%A5~)|
@@ -179,7 +182,7 @@ https://www.google.com.tw/maps/@26.2917049,127.4187327,10z/data=!4m2!6m1!1s1k1aV
 |波上宮|60|33 185 022\*01|
 |波上宮 -> 飯店|50||
 |飯店check in||33 532 316\*40|
-|AEON Mall||
+|AEON Mall|||
 
 #### Day2 (106.05.17)
 |行程|時間(mins)|map code|
